@@ -1,0 +1,12 @@
+package MyThread;
+
+public class BankMainTest {
+	public static void main(String[] args) {
+		Bank bank = new Bank();
+		
+		Father father = new Father(bank);
+		Mother mother = new Mother(bank);
+		
+		father.start();
+	}
+}

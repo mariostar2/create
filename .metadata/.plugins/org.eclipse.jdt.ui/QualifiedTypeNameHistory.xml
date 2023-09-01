@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="myServer.MainTest1"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="myServer.ServerTest"/>
+    <fullyQualifiedTypeName name="java.sql.BatchUpdateException"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystemNotFoundException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
+    <fullyQualifiedTypeName name="myServer.serverFileTest"/>
+    <fullyQualifiedTypeName name="myServer.ServerFile.WriteThread"/>
+    <fullyQualifiedTypeName name="myClient.ClientTest"/>
+    <fullyQualifiedTypeName name="myClient.ClientFile"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="myClient.ClientFile.ReadThread"/>
+    <fullyQualifiedTypeName name="MyThread.Worker"/>
+    <fullyQualifiedTypeName name="javax.swing.text.DefaultEditorKit.BeepAction"/>
+    <fullyQualifiedTypeName name="MyThread.Bank"/>
+    <fullyQualifiedTypeName name="java.lang.Module"/>
+    <fullyQualifiedTypeName name="MyThread.Mother"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="MyThread.Father"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

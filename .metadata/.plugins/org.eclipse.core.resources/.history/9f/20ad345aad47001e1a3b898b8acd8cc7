@@ -1,0 +1,10 @@
+package MyThread;
+
+public class MainTest2 {
+	public static void main(String[] args) {
+		System.out.println("------------- main thread start ----------------");
+		System.out.println(Thread.currentThread());		//현재 스레드 확인 		
+
+	}	//end of main
+	
+}

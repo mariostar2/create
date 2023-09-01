@@ -1,0 +1,31 @@
+package MyThread;
+
+public class Bank {
+	
+	int money = 100_000;
+	
+	//get,set 
+	public int getMoney() {
+		return money;
+	}
+	
+	public void setMoney(int money) {
+		this.money = money;
+	}
+	
+	public void saveMoney() {
+		int currentMoney = getMoney();
+		try {
+			Thread.sleep(3000);
+		} catch (InterruptedException e) {
+			
+			e.printStackTrace();
+		}
+		//1--
+		setMoney(currentMoney+money);
+	}
+	
+	public void widthMoney() {
+		
+	}
+}

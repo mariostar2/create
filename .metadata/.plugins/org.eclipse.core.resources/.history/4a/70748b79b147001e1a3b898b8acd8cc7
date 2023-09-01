@@ -1,0 +1,18 @@
+package MyThread;
+
+public class Mother {
+	
+	Bank bank;
+	
+	public Mother(Bank bank) {
+		this.bank = bank;
+	}
+	
+	public void run() {
+		bank.widthdraw(5_000);
+
+	}
+
+
+
+}
